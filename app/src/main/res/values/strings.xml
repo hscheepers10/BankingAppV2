@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SisonkeBankingApp</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string-array name="transOp">
+        <item> Current to Savings </item>
+        <item> Savings to Current </item>
+    </string-array>
+</resources>
